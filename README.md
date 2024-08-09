@@ -25,14 +25,13 @@ To get started with this project, follow these steps:
 
 2. 🔧** Navigate to the Project Directory**:
    ```bash
-cd SpringBoot
+   cd SpringBoot
 
 3. ⚙️ **Build and Run**:
    ```bash
-./gradlew build
-./gradlew bootRun
+   ./gradlew build
+   ./gradlew bootRun
 
-## 📊 API Endpoints
 ## 📊 API Endpoints
 
 <p>Here are the available API endpoints:</p>
